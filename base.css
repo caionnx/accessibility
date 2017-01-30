@@ -1,0 +1,41 @@
+.negative body,
+.negative .panel,
+.negative .panel-footer,
+.negative .btn,
+.negative a,
+.negative a:hover,
+.negative a:visited,
+.negative a:focus{
+	background: #333;
+	color: #FFF;
+}
+.negative-alternative body,
+.negative-alternative .panel,
+.negative-alternative .panel-footer,
+.negative-alternative .btn,
+.negative-alternative a,
+.negative-alternative a:hover,
+.negative-alternative a:visited,
+.negative-alternative a:focus{
+	background: yellow;
+	color: purple;
+}
+.page-header{
+	margin-top: 0
+}
+.access a{
+	color: blue;
+}
+.panel h2{
+	margin-top: 0
+}
+.btn-group, .btn-group-vertical{
+	width: 100%;
+}
+.btn{
+	font-size: inherit;
+	white-space: normal;
+}
+footer{
+	margin-top: 40px;
+}
